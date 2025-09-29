@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Jiu
+# Hi there 👋 I'm Mercy
 
 🎓 Final-year Mechanical Engineering student with a strong foundation in **Python development, data analysis, and machine learning**, combined with hands-on experience in **hardware–software integration**. I am passionate about applying engineering principles and programming skills to develop impactful solutions.
 
